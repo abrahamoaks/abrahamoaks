@@ -1,7 +1,6 @@
 <h1 align="center">Hello! 😊, Welcome to my Github profile 👐🏽!</h1>
 
-
-![Abraham]
+![MasterHead]
 (codeer02.gif)
 
 <h1 align="center">Hi 👋, I'm Abraham!</h1>
