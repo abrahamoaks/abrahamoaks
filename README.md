@@ -4,8 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Abraham!</h1>
 <h3 align="center">An Ai Engineer passionate about enhancing patient outcomes with Data-Driven solutions.</h3>
-[![MasterHead]
-(codeer02.gif)
+[![MasterHead](68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif)
+
 
 - 🔭 I’m currently working on **Predicting Diseases using Machine Learning**
 
