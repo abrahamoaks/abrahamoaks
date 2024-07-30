@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Detecting Diseases Earlier using Machine Learning Algorithms**
 
-- 👥 I’m looking to collaborate on **Healthcare Ai and Data science projects**
+- 👥 I’m looking to collaborate with startups and individuals on **Healthcare Ai and Data science projects**
 
 - 💬 Ask me about **Python, Scikit-learn, Keras, TensorFlow, & LLM's**
 
