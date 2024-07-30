@@ -60,7 +60,8 @@
 </p>
 
 
-<h3 align="left">Tool | Frameworks:</h3>
+<h3 align="left">Tools | Frameworks:</h3>
+
 - 🔂 Data Preprocessing: NumPy, Pandas. 
 
 - 🧠 Machine and Deep Learning Implementation Framework: Scikit-Learn, Keras & TensorFlow. 
