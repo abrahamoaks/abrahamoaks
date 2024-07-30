@@ -25,7 +25,8 @@
 <h3 align="left">Education:</h3>
 <p align="left"> </p>
 
-- MBBS Bachelor of Medicine, Bachelor of Surgery, Ambrose Alli University Nigeria (undergraduate).
+- MBBS Bachelor of Medicine, Bachelor of Surgery, Ambrose Alli University Nigeria (undergraduate)
+- WAEC High School Diploma, Brisco College (completed)
 
 <h3 align="left">Certifications:</h3>
 <p align="left"> </p>
