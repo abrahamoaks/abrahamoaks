@@ -6,7 +6,7 @@
 <h3 align="center">An Ai Engineer passionate about enhancing patient outcomes with Data-Driven solutions.</h3>
 
 
-- 🔭 I’m currently working on **Predicting Diseases using Machine Learning**
+- 🔭 I’m currently working on **Detecting Diseases using Machine Learning Algorithms**
 
 - 👯 I’m looking to collaborate on **Healthcare Ai projects and Data science projects**
 
@@ -14,12 +14,12 @@
 
 - 📫 How to reach me **abrahamoaks@gmail.com**
 
-- ⚡ Fun fact **I love taking a lone walk in the woods and building machine learning models.**
+- ⚡ Fun fact **I love taking a lone walk in the woods and training machine learning models.**
 
 <h3 align="left">Education:</h3>
 <p align="left"> </p>
 
-- MBBS Bachelor of Medicine, Bachelor of Surgery, Ambrose Alli University (undergraduate)
+- MBBS Bachelor of Medicine, Bachelor of Surgery, Ambrose Alli University Nigeria (undergraduate).
 
 <h3 align="left">Certifications:</h3>
 <p align="left"> </p>
