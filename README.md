@@ -1,4 +1,4 @@
-[![MasterHead](codeer02.gif)
+[![MasterHead](aih.jpeg)
 
 <h1 align="center">Hello! 🤓, Welcome to my Github profile 👐🏽!</h1>
 
