@@ -61,20 +61,19 @@
 
 
 ### Tools | Frameworks 
+🔂 Data Preprocessing: NumPy, Pandas. 
 
-Web: ReactJS, NodeJS, ExpressJS, MongoDB, GraphQL
+🧠 Machine and Deep Learning Implementation Framework: Scikit-Learn, Keras & TensorFlow. 
 
-Data Preprocessing: NumPy, Pandas. 
+Natural Language Processing: NLTK, BERT. 
 
-Machine and Deep Learning Implementation Framework: Scikit-Learn, PyTorch. 
+Development: Python, Flask, HTML5, CSS3, Bootstrap, JavaScript & Git. 
 
-Natural Language Processing: NLTK, BERT. Development: Python, Flask, Django, Git. 
+Data Visualization: Matplotlib, & Seaborn. 
 
-Data Visualization: Matplotlib, Tableau, Seaborn. 
+Cloud Services: Lightning Ai, AWS, Google Colaboratory, Kaggle kernel. 
 
-Cloud Services: AWS, Google Colaboratory, Kaggle kernel. 
-
-Integrated Development Environment: Jupyter-Notebook, Sublime Text, PyCharm.
+Integrated Development Environment: Jupyter-Notebook & VSCode.
   
 
 
