@@ -60,7 +60,7 @@
 </p>
 
 
-<h3 align="left">Tools | Frameworks:</h3>
+<h3 align="left">Skills:</h3>
 
 - 🔂 Data Preprocessing: NumPy, Pandas. 
 
