@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Healthcare Ai projects and Data science projects**
 
-- 💬 Ask me about **Python, Scikit-learn, Keras, TensorFlow, LLM's**
+- 💬 Ask me about **Python, Scikit-learn, Keras, TensorFlow, & LLM's**
 
 - 📫 How to reach me **abrahamoaks@gmail.com**
 
