@@ -1,4 +1,4 @@
-[![MasterHead](aih.jpeg)
+![MasterHead](aih.jpeg)
 
 <h1 align="center">Hello! 🤓, Welcome to my Github profile 👐🏽!</h1>
 
