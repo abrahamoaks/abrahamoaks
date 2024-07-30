@@ -6,7 +6,7 @@
 <h3 align="center">An Ai Engineer passionate about enhancing patient outcomes with Data-Driven solutions.</h3>
 
 
-- 🔭 I’m currently working on **Detecting Diseases using Machine Learning Algorithms**
+- 🔭 I’m currently working on **Detecting Diseases Earlier using Machine Learning Algorithms**
 
 - 👯 I’m looking to collaborate on **Healthcare Ai and Data science projects**
 
