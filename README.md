@@ -4,6 +4,10 @@
 
 ![Abraham](68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif)
 
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+
 <h1 align="center">Hi 👋, I'm Abraham!</h1>
 <h3 align="center">An Ai Engineer actively enhancing patient outcomes with Data-Driven solutions.</h3>
 
