@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **abrahamoaks@gmail.com**
 
-- ⚡ Fun fact **I love taking a lone walk in the woods and training machine learning models.**
+- ⚡ Fun fact **I love taking a lone walk in the woods and training machine learning models at night.**
 
 <h3 align="left">Education:</h3>
 <p align="left"> </p>
