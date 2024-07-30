@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Detecting Diseases using Machine Learning Algorithms**
 
-- 👯 I’m looking to collaborate on **Healthcare Ai projects and Data science projects**
+- 👯 I’m looking to collaborate on **Healthcare Ai and Data science projects**
 
 - 💬 Ask me about **Python, Scikit-learn, Keras, TensorFlow, & LLM's**
 
