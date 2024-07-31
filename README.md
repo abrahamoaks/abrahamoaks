@@ -12,7 +12,7 @@
 <h3 align="center">An Ai Engineer actively enhancing patient outcomes with Data-Driven solutions.</h3>
 
 
-- 🔭 I’m currently working on **Detecting Diseases Earlier using Machine Learning & Deep Learning Algorithms**
+- 🔭 I’m currently working on **Detecting Diseases Earlier using Machine Learning Algorithms**
 
 - 👥 I’m looking to collaborate with startups and individuals on **Healthcare Ai and Data science projects**
 
