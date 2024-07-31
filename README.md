@@ -12,7 +12,7 @@
 <h3 align="center">An Ai Engineer actively enhancing patient outcomes with Data-Driven solutions.</h3>
 
 
-- 🔭 I’m currently working on **Detecting Diseases Earlier using Machine Learning Algorithms**
+- 🔭 I’m currently working on **Detecting Diseases Earlier using Machine Learning & Deep Learning Algorithms**
 
 - 👥 I’m looking to collaborate with startups and individuals on **Healthcare Ai and Data science projects**
 
@@ -74,6 +74,8 @@
 <a href="https://www.linkedin.com/in/abraham-obianke-269112197?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 
 <a href="https://wa.me/+2348160715013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp___" height="30" width="40" /></a>
+
+<a href="https://github.com/abrahamoaks/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub___" height="30" width="40" /></a>
 
   
 
