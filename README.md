@@ -75,9 +75,6 @@
 
 <a href="https://wa.me/+2348160715013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp___" height="30" width="40" /></a>
 
-<a
-href="github.com/abrahamoaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="github___" height="30" width="40" /></a>
-</p>
   
 
 
