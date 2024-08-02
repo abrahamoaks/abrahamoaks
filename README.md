@@ -1,4 +1,4 @@
-![MasterHead](aihcare.jpeg)
+![MasterHead](Dofoto_20240721_210612052.jpg.jpg)
 
 <h1 align="center">Hello! 🤓, Welcome to my Github profile 👐🏽!</h1>
 
