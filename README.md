@@ -75,8 +75,9 @@
 
 <a href="https://wa.me/+2348160715013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp___" height="30" width="40" /></a>
 
-<a href="https://t.me/+2348160715013/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram___" height="30" width="40" /></a>
-
+ <a href="https://t.me/+2348160715013"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://peerlist.io/jigar"><img alt="Telegram" src="https://github-readme-badge.peerlist.io/api/jigar" /></a>
+  
 <a href="mailto:abrahamoaks@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
   
