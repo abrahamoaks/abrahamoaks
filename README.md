@@ -77,11 +77,13 @@
 
 <a href="https://github.com/abrahamoaks/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub___" height="30" width="40" /></a>
 
+<a href="mailto:abrahamoaks@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
   
 
 
-
-[![Abraham's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=abrahamoaks&&theme=xcode)](https://github.com/abrahamoaks)
+### 📊 GitHub Activity Graph
+![Abraham](https://activity-graph.herokuapp.com/graph?username=abrahamoaks&&theme=xcode)](https://github.com/abrahamoaks)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrahamoaks&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="abrahamoaks" /></p>
 
