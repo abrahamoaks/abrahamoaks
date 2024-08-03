@@ -83,7 +83,7 @@
 
 
 ### 📊 GitHub Activity Graph
-![Abraham](https://activity-graph.herokuapp.com/graph?username=abrahamoaks&&theme=xcode)](https://github.com/abrahamoaks)
+(https://activity-graph.herokuapp.com/graph?username=abrahamoaks&&theme=xcode)](https://github.com/abrahamoaks)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrahamoaks&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="abrahamoaks" /></p>
 
