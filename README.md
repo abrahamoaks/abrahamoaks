@@ -36,7 +36,7 @@
 - Predictive Analytics, Great Learning
 - Research Innovation & Scholarship, Christian Medical & Dental Association(CMDA)
 - Research Methodology, Cancer Advocacy Nigeria(CANCAD)
-- HealthTech Careers, MedicsinTech(MIT)
+- HealthTech Pathways, MedicsinTech(MIT)
 
 
 
