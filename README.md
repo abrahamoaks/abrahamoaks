@@ -37,6 +37,8 @@
 - Research Innovation & Scholarship, Christian Medical & Dental Association(CMDA)
 - Research Methodology, Cancer Advocacy Nigeria(CANCAD)
 - HealthTech Pathways, MedicsinTech(MIT)
+- AI in Healthcare, Great Learning
+- Design Thinking, Great Learning 
 
 
 
