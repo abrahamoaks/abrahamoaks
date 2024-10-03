@@ -25,8 +25,8 @@
 <h3 align="left">Education:</h3>
 <p align="left"> </p>
 
-- MBBS Bachelor of Medicine, Bachelor of Surgery, Ambrose Alli University Nigeria (undergraduate)
-- WAEC West African Examinations Council, Brisco College (completed)
+- MBBS Bachelor of Medicine, Bachelor of Surgery, Ambrose Alli University, Edo State, Nigeria (undergraduate)
+- WAEC West African Examinations Council, Brisco College, Delta State, Nigeria (completed)
 
 <h3 align="left">Certifications:</h3>
 <p align="left"> </p>
@@ -38,7 +38,11 @@
 - Research Methodology, Cancer Advocacy Nigeria(CANCAD)
 - HealthTech Pathways, MedicsinTech(MIT)
 - AI in Healthcare, Great Learning
-- Design Thinking, Great Learning 
+- Design Thinking, Great Learning
+- Academic Seminar, Medlife Network 
+- Applications of AI, Great Learning
+- AI & Big Data, Great Learning
+- AI Ethics, Great Learning 
 
 
 
