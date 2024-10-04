@@ -26,7 +26,7 @@
 <p align="left"> </p>
 
 - MBBS Bachelor of Medicine, Bachelor of Surgery, Ambrose Alli University, Edo State, Nigeria (undergraduate)
-- WAEC West African Examinations Council, Brisco College, Delta State, Nigeria (completed)
+- WASSCE West African Senior School Certificate Examination, Brisco College, Delta State, Nigeria (completed)
 
 <h3 align="left">Certifications:</h3>
 <p align="left"> </p>
