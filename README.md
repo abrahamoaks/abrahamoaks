@@ -42,7 +42,8 @@
 - Academic Seminar, Medlife Network 
 - Applications of AI, Great Learning
 - AI & Big Data, Great Learning
-- AI Ethics, Great Learning 
+- AI Ethics, Great Learning
+- Prompt Engineering, EHealth4everyone 
 
 
 
