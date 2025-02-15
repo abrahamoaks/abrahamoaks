@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrahamoaks&label=Profile%20views&color=0e75b6&style=flat" alt="abrahamoaks" /> </p>
 
 <h1 align="center">Hi 👋, I'm Abraham Obianke!</h1>
-<h3 align="center">An AI Engineer dedicated to Improving Patient Outcomes with Data-Driven Solutions</h3>
+<h3 align="center">A full-stack AI Engineer with a background in Clinical Medicine from Ambrose Alli University, Edo State, Nigeria.</h3>
 
 
 - 🔭 I’m currently working on **Detecting Diseases Earlier using Machine Learning Algorithms**
